@@ -1,0 +1,1 @@
+C:\Users\Hugsl\Documents\hnet\target\debug\hnet.exe: C:\Users\Hugsl\Documents\hnet\src\digits\mod.rs C:\Users\Hugsl\Documents\hnet\src\lib.rs C:\Users\Hugsl\Documents\hnet\src\main.rs C:\Users\Hugsl\Documents\hnet\src\net\data.rs C:\Users\Hugsl\Documents\hnet\src\net\mod.rs C:\Users\Hugsl\Documents\hnet\src\net\network.rs C:\Users\Hugsl\Documents\hnet\src\net\vector.rs
